@@ -5,3 +5,4 @@ log/
 **/.DS_Store
 /python_buildpack-offline-v[0-9\.]*.zip
 /python_buildpack-v[0-9\.]*.zip
+.project
